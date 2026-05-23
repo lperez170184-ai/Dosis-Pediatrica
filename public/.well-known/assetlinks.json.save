@@ -1,9 +1,8 @@
-
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.dosispediatrica.app",
-    "sha256_cert_fingerprints": ["A5:45:EA:B6:8F:C3:67:C3:D9:2E:AE:62:88:55:B0:0A:5F:84:6E:09:97:0F:8E:2A:A1:BC:5F:2B:06:6E:D4:9F"]
+    "sha256_cert_fingerprints": ["BE:17:7E:C4:9B:E5:BF:4E:9A:57:A2:C7:E4:46:05:88:97:02:4E:DE:0F:BE:C4:A5:5B:84:77:BD:0B:55:A2:94"]
   }
 }]
